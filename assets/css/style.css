@@ -1,0 +1,19 @@
+html {
+    background-color: #dddddd;
+}
+header {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    background-color: #ffffff;
+    border: #cccccc;
+    padding: 20px;
+}
+a {
+    color: gray;
+}
+.contenthead {
+    color: teal;
+}
+.content {
+    width: 960px;
+    margin: 0 auto;
+}
