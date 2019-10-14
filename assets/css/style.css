@@ -1,4 +1,4 @@
-html {
+body {
     background-color: #dddddd;
 }
 header {
@@ -17,4 +17,6 @@ a {
     background-color: white;
     width: 960px;
     margin: 0 auto;
+    padding: 20px;
+    margin-top: 15px;
 }
