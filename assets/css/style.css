@@ -20,3 +20,16 @@ a {
     padding: 20px;
     margin-top: 15px;
 }
+footer {
+    font-size: 12px;
+    position: fixed;
+    width: 100%;
+    bottom: 1px;
+    left: 1px;
+    padding-top: 10px;
+    border-top: 8px solid #4aaaa5;
+    align-content: center;
+    background-color: #666666;
+    text-align: center;
+    color: white;
+}
