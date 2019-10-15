@@ -1,5 +1,6 @@
 body {
     background-color: #dddddd;
+    margin-bottom: 10%;
 }
 header {
     font-family: Georgia, Times, 'Times New Roman', serif;
@@ -33,6 +34,7 @@ footer {
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
     color: white;
+    margin-top: 5%;
     margin-bottom: -1%;
 }
 #copy {
