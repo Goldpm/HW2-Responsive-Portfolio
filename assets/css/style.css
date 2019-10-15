@@ -6,7 +6,15 @@ header {
     font-family: Georgia, Times, 'Times New Roman', serif;
     background-color: #ffffff;
     border: #cccccc;
-    padding: 20px;
+    width: 102%;
+}
+.hitems {
+    padding: 1.5%;
+    margin-bottom: 0rem;
+}
+.name {
+    background-color: #4aaaa5;
+    color: white;
 }
 a {
     color: gray;
