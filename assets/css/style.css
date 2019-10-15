@@ -4,6 +4,7 @@ body {
 }
 .white {
     background-color: white;
+    /* padding-right: 17.1%; */
 }
 header {
     font-family: Georgia, Times, 'Times New Roman', serif;
@@ -12,6 +13,7 @@ header {
     width: 102%;
 }
 .hitems {
+
     padding: 1.5%;
     margin-bottom: 0rem;
 }
@@ -25,9 +27,13 @@ a {
 .contenthead {
     color: teal;
 }
+.imp {
+    padding: 0 10px 10px 10px;
+}
 .content {
     background-color: white;
-    width: 960px;
+    /* width: 960px; */
+    width: 90%;
     margin: 0 auto;
     padding: 20px;
     margin-top: 15px;
