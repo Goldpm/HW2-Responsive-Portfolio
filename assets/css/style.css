@@ -2,6 +2,9 @@ body {
     background-color: #dddddd;
     margin-bottom: 10%;
 }
+.white {
+    background-color: white;
+}
 header {
     font-family: Georgia, Times, 'Times New Roman', serif;
     background-color: #ffffff;
@@ -29,9 +32,15 @@ a {
     padding: 20px;
     margin-top: 15px;
 }
+p {
+    color: #777777;
+}
 .mypic {
     height: 190px;
     width: 200px;
+    padding: 0%;
+    margin: 2%;
+    margin-bottom: -1%;
 }
 footer {
     font-size: 12px;
