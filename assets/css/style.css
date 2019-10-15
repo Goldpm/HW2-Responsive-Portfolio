@@ -72,9 +72,3 @@ footer {
         font-size: 2rem;
     }
 }
-
-@media only screen and  (max-width: 1210px) {
-    .name {
-        font-size: 1.5rem;
-    }
-}
