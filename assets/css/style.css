@@ -87,6 +87,22 @@ p {
     margin-bottom: 0%;
     float: left;
 }
+.input-space {
+    margin-top: 5px;
+    width: 100%;
+  }
+  .message {
+    height: 180px;
+  }
+.submithere {
+    padding: 25px;
+  }
+.button {
+    margin: 25px;
+    padding: 10px 30px;
+    color: white;
+    background-color: #4aaaa5;
+}
 footer {
     font-size: 12px;
     position: fixed;
