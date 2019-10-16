@@ -47,8 +47,9 @@ a {
 }
 h3 {
     background-color: teal;
-    margin-top: 120px;
     padding: 5px;
+    position: relative;
+    top: 67%;
   }
 .portpic {
     width: 250px;
@@ -63,16 +64,16 @@ h3 {
 .portpic1 {
     background-image: url(../images/240x170.png);
   }
-  .portpic2 {
+.portpic2 {
     background-image: url(../images/240x170.png);
   }
-  .portpic3 {
+.portpic3 {
     background-image: url(../images/240x170.png);
   }
-  .portpic4 {
+.portpic4 {
     background-image: url(../images/240x170.png);
   }
-  .portpic5 {
+.portpic5 {
     background-image: url(../images/240x170.png);
   }
 p {
