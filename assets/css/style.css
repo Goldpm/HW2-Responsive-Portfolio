@@ -59,7 +59,6 @@ h3 {
     text-align: center;
     color: white;
     transition: all 1s;
-    float: left;
   }
 .portpic1 {
     background-image: url(../images/240x170.png);
