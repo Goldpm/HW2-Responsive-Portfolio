@@ -74,26 +74,35 @@ footer {
 
 }
 
-@media only screen and  (max-width: 1510px) and (min-width: 584px) {
+@media only screen and  (max-width: 1510px) {
     .name {
         font-size: 2rem;
     }
 }
-@media only screen and  (max-width: 585px) {
-    .mypic {
-        width: 100%;
-        height: 1%;
-    }
-    h1 {
-        font-size: 1rem;
-    }
-
-}
-@media only screen and  (max-width: 1160px) {
+@media only screen and  (max-width: 1205px) {
     .navi {
         display: none;
     }
     .nexpg {
         display: inline-block;
     }
+    .name {
+        font-size: 1.5rem;
+    }
+}
+@media only screen and  (max-width: 905px) {
+    .name {
+        font-size: 1rem;
+    }
+
+}
+@media only screen and  (max-width: 595px) {
+    .mypic {
+        width: 100%;
+        height: 18rem;
+    }
+    .name {
+        font-size: 0.8rem;
+    }
+
 }
