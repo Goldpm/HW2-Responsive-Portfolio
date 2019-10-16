@@ -19,6 +19,9 @@ header {
 }
 .nexpg {
     display: none;
+    background-color: teal;
+    max-width: 100%;
+    padding: -5%;
 }
 .name {
     background-color: #4aaaa5;
