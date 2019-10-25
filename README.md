@@ -17,5 +17,4 @@ Recreate the page from first homework assignment except using bootstrap 4 to mak
 ### Links
 
 [Github Repo](https://github.com/Goldpm/HW2-Responsive-Portfolio)
-
 [Completed Work](https://goldpm.github.io/HW2-Responsive-Portfolio/)
