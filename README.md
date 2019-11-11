@@ -1,10 +1,10 @@
-# Homework 2 - Responsive Portfolio
+# Responsive Portfolio
 
-This repo is for the UNCC coding bootcamp's second homework assignment
+This repo is for the UNCC coding bootcamp
 
 ## Instructions
 
-Recreate the page from first homework assignment except using bootstrap 4 to make it a much more responsive website
+Recreate portfolio except using bootstrap 4 to make it a much more responsive website
 
 ## Screenshots
 
